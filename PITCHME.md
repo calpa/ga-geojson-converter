@@ -2,6 +2,8 @@ Google Analytics + GeoJson = Mapbox
 
 Calpa Liu
 
+![Calpa's QR Code](https://i.imgur.com/ckTuQQC.png)
+
 https://calpa.me
 
 ---
@@ -31,4 +33,10 @@ Three steps
 
 ---
 
+Demo Time
+
+---
+
 Have fun!
+
+![Calpa's QR Code](https://i.imgur.com/ckTuQQC.png)
