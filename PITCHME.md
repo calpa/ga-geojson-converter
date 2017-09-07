@@ -35,8 +35,11 @@ Three steps
 
 Demo Time
 
+![Imgur](https://i.imgur.com/8D5G4n2.png)
+
 ---
 
 Have fun!
 
 ![Calpa's QR Code](https://i.imgur.com/ckTuQQC.png)
+![Mapbox](https://i.imgur.com/WithoUN.png)
