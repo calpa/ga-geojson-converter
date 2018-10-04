@@ -1,6 +1,8 @@
 ga-geojson-converter
 ---
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/calpa/ga-geojson-converter.svg)](https://greenkeeper.io/)
+
 Convert Google Analytics User Data into geojson
 
 This project includes two parts:
